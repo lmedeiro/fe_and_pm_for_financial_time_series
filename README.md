@@ -8,8 +8,17 @@
 </p>
 
 <p> 
-    For the report, you may refer to 
+    For the report, you may refer to <a href="https://github.com/lmedeiro/fe_and_pm_for_financial_time_series/blob/master/project_report_LFM.pdf"> this pdf </a>. 
+    Each jupyter notebook has its own model and purpose, therefore you may visit it and run the code. Models and machine learning related
+    procedures are implemented with Pytorch and Scikit-learn. 
+</p>
 
+<p> The main dataset used for this work is <a href="https://github.com/lmedeiro/fe_and_pm_for_financial_time_series/blob/master/nasdaq_qqq_yahoo.pckl"> in this pickle file </a>.
+It contains the structure that is known by the programs already. A few other pickle files are provided as well. 
+You may test with those if desired. </p>
+
+<p> Since this was a short, time restricted project, there was not much effort on the documentation. 
+If you are interested enough, please contact me with questions.
 </p>
 
 <h1> Research Abstract </h1>
