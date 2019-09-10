@@ -10,7 +10,7 @@
 <p> 
     For the report, you may refer to <a href="https://github.com/lmedeiro/fe_and_pm_for_financial_time_series/blob/master/project_report_LFM.pdf"> this pdf </a>. 
     Each jupyter notebook has its own model and purpose, therefore you may visit it and run the code. Models and machine learning related
-    procedures are implemented with Pytorch and Scikit-learn. 
+    procedures are implemented with Pytorch, Skorch, and Scikit-learn. The main models used for this project were: LSTM RNNs, CNNs, and RFs. 
 </p>
 
 <p> The main dataset used for this work is <a href="https://github.com/lmedeiro/fe_and_pm_for_financial_time_series/blob/master/nasdaq_qqq_yahoo.pckl"> in this pickle file </a>.
