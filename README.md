@@ -17,9 +17,6 @@
 It contains the structure that is known by the programs already. A few other pickle files are provided as well. 
 You may test with those if desired. </p>
 
-<p> Since this was a short, time restricted project, there was not much effort on the documentation. 
-If you are interested enough, please contact me with questions.
-</p>
 
 <h1> Research Abstract </h1>
 <h3> Feature Engineering and Predictive Modeling
